@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.name        = "activeadmin-globalize"
   s.version     = ActiveAdmin::Globalize::VERSION
   s.authors     = ["Stefano Verna"]
-  s.email       = ["stefano.verna@gmail.com"]
-  s.homepage    = "https://github.com/marcqg/activeadmin-globalize"
+  s.email       = ["rapira101@gmail.com"]
+  s.homepage    = "https://github.com/AnnDushlova/activeadmin-globalize"
   s.summary     = "Handles globalize translations"
   s.description = "Handles globalize translations"
 
