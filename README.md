@@ -21,6 +21,20 @@ active_admin_translates :title, :description do
   validates_presence_of :title
 end
 ```
+
+## Your active_admin.scss
+
+```scss
+//= require active_admin/active_admin_globalize.css
+```
+
+## Your active_admin.js.coffee
+
+```coffeescript
+#= require active_admin/active_admin_globalize.js
+```
+
+
 ## Editor configuration
 
 ```ruby
